@@ -4,7 +4,7 @@
 sdfsdf
 
 ## External Light System
-| ![External Lights](ExternalLights.jpg) |
+| ![External Lights](ExternalLights.svg) |
 | :------------------------------------: |
 |                 *XYZ*                  |
 
