@@ -3,6 +3,7 @@
 
 - [**Vehicle Lighting System**](#vehicle-lighting-system)
   - [Introduction](#introduction)
+  - [Terms, Definitions, Abbreviations](#terms-definitions-abbreviations)
     - [Requirements](#requirements)
   - [External Light System](#external-light-system)
     - [Purpose](#purpose)
