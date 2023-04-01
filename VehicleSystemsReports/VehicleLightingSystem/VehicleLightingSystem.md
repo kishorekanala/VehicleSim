@@ -9,7 +9,7 @@
     - [Purpose](#purpose)
     - [External lights and controls](#external-lights-and-controls)
       - [Front Position/Parking Lamp and Tailgate Position/Parking Lamp](#front-positionparking-lamp-and-tailgate-positionparking-lamp)
-        - [Adaptive Front Light system](#adaptive-front-light-system)
+        - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
       - [](#)
   - [References](#references)
@@ -25,6 +25,7 @@ A vehicle has lighting to illuminate the road and surroundings ahead to increase
 | DRL  | Daylight Running Light |
 | CHMSL | Center High Mount Stop Lamp |
 | LD | Lane Departure |
+| AFS | Adaptive Frontlight System |
 
 
 ### Requirements
@@ -67,7 +68,8 @@ Parking lamps are connected through simple physical electrical wiring and a swit
 |                 *XYZ*                  |
 
 
-##### Adaptive Front Light system
+##### Adaptive Front Light system (AFS)
+
 
 
 
