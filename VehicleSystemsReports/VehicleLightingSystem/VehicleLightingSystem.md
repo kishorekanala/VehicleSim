@@ -101,8 +101,8 @@ These lamps are deactivated when turn signal lever is brought to normal position
 mindmap
   root((AutomotiveLights))
     Lamp manufacturers
-      OSRAM
-      Hella
+      OSRAM[OSRAM]
+      Hella[Hella]
     Software
       Simulation Software vendors
         Synopsys
