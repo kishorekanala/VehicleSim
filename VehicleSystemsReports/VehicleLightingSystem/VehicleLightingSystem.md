@@ -12,6 +12,12 @@
 ## Introduction
 A vehicle has lighting to illuminate the road and surroundings ahead to increase visibility for driver to see presence of obstacles, pedestrians, path of travel. Additionally, vehicle has lights to signal, warn, alert drivers of other vehicles and pedestrians of direction of the vehicle, seek priority of movement from other vehicles and other indications such as stop. A vehicle has lights placed outside the vehicle (external lights) and lights inside vehicle (internal lights). This document provides details of all the lights of a vehicle and details of how each of these lights are controlled.
 
+## Terms, Definitions, Abbreviations
+
+| Term | Description |
+|------|-------------|
+| EMI  | Electro Magnetic Interference |
+
 
 ### Requirements
 
