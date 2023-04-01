@@ -11,7 +11,9 @@
       - [Front Position/Parking Lamp and Tailgate Position/Parking Lamp](#front-positionparking-lamp-and-tailgate-positionparking-lamp)
         - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
-      - [](#)
+  - [Hardware and Software for Vehicle Lighting system](#hardware-and-software-for-vehicle-lighting-system)
+    - [Software](#software)
+      - [Commercial](#commercial)
   - [References](#references)
 
 ## Introduction
@@ -83,7 +85,17 @@ These lamps are deactivated when turn signal lever is brought to normal position
 
 
 
-#### 
+## Hardware and Software for Vehicle Lighting system
+
+### Software
+
+| Product Name | Vendor/Open Source | Purpose | Description |
+|--------------|--------------------|---------|-------------|
+| Lucidshape | Synopsis | TBD | Based on CATIA CAD tool |
+
+#### Commercial
+* Lucid Software from Synopsys
+* 
 
 ## References
 1. [Automotive Exterior Lighting by Synopsys](https://www.synopsys.com/automotive/what-is-automotive-exterior-lighting.html)
