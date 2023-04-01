@@ -62,6 +62,14 @@ Parking lamps are connected through simple physical electrical wiring and a swit
 |                 *XYZ*                  |
 
 #### Indicator - side mirror and Fender lamps
+Side mirror and Fender lamps are triggered by the following
+
+Hardware: Turn signal lever is activated to indicate direction - left or Right
+Software Triggered: When lane departure is detected on the left side or right side
+
+These lamps are deactivated when turn signal lever is brought to normal position or lane transition completion is detected
+
+
 
 #### 
 
