@@ -13,7 +13,6 @@
       - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
   - [Hardware and Software for Vehicle Lighting system](#hardware-and-software-for-vehicle-lighting-system)
     - [Software](#software)
-      - [Commercial](#commercial)
   - [References](#references)
 
 ## Introduction
@@ -92,10 +91,6 @@ These lamps are deactivated when turn signal lever is brought to normal position
 | Product Name | Vendor/Open Source | Purpose | Description |
 |--------------|--------------------|---------|-------------|
 | Lucidshape | Synopsis | Simulate and Evaluate automotive headlamps  | Night driving simulation software Based on CATIA CAD tool |
-
-#### Commercial
-* Lucid Software from Synopsys
-* 
 
 ## References
 1. [Automotive Exterior Lighting by Synopsys](https://www.synopsys.com/automotive/what-is-automotive-exterior-lighting.html)
