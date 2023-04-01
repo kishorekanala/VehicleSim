@@ -37,6 +37,7 @@ Following are the requirements of lights in an automobile
 * Need to operate in cold and hot temperatures
 * Durability
 * Optimal energy consumption
+* Regulations
 
  
 
