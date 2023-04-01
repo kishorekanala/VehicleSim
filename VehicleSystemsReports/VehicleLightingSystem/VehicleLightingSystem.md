@@ -57,7 +57,7 @@ These lights are triggered using a switch shown as (5) in the diagram.
 Parking lamps are connected through simple physical electrical wiring and a switch.
 
 
-| ![Parking Lights Wiring](ParkingLightsWiring.drawio.svg) |
+| ![Parking Lights Wiring](ParkingLightsWiring.drawio) |
 | :------------------------------------: |
 |                 *XYZ*                  |
 
