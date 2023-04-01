@@ -121,7 +121,13 @@ mindmap
         Freeware[Freeware]
     IC vendors
       xyz
+        x
+        y
+        z
       abc
+        a
+        b
+        c
     XYZ
       x1
       y1
