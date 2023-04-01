@@ -33,6 +33,7 @@ Following are the requirements of lights in an automobile
 * Reduction of EMI
 * Need to operate in cold and hot temperatures
 * Durability
+* Optimal energy consumption
 
  
 
