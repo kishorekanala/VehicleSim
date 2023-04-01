@@ -47,7 +47,7 @@ Following are the requirements of lights in an automobile
 
 | ![External Lights](ExternalLights.svg) |
 | :------------------------------------: |
-|                 *XYZ*                  |
+|                 *External Lights in a Vehicle*                  |
 
 #### Front Position/Parking Lamp and Tailgate Position/Parking Lamp
 These lamps/lights are also called side lights. These lights are used to increase visibility of the vehicle when it is parked.
