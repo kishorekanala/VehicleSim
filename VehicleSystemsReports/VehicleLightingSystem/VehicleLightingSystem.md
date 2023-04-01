@@ -70,10 +70,6 @@ Parking lamps are connected through simple physical electrical wiring and a swit
 | :------------------------------------: |
 |                 *XYZ*                  |
 
-```mermaid
-SequenceDiagram
-```
-
 
 ##### Adaptive Front Light system (AFS)
 
@@ -105,7 +101,7 @@ These lamps are deactivated when turn signal lever is brought to normal position
 mindmap
   root((AutomotiveLights))
     Lamp manufacturers
-      OSRAM[OSRAM]
+      OSRAM
       Hella
     Software
       Simulation Software vendors
