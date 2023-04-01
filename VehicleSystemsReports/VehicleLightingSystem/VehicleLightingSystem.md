@@ -8,6 +8,9 @@
   - [External Light System](#external-light-system)
     - [Purpose](#purpose)
     - [External lights and controls](#external-lights-and-controls)
+      - [Front Position/Parking Lamp and Tailgate Position/Parking Lamp](#front-positionparking-lamp-and-tailgate-positionparking-lamp)
+      - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
+      - [](#)
   - [References](#references)
 
 ## Introduction
@@ -45,6 +48,22 @@ Following are the requirements of lights in an automobile
 | ![External Lights](ExternalLights.svg) |
 | :------------------------------------: |
 |                 *XYZ*                  |
+
+#### Front Position/Parking Lamp and Tailgate Position/Parking Lamp
+These lamps/lights are also called side lights. These lights are used to increase visibility of the vehicle when it is parked.
+
+These lights are triggered using a switch shown as (5) in the diagram.
+
+Parking lamps are connected through simple physical electrical wiring and a switch.
+
+
+| ![Parking Lights Wiring](ParkingLightsWiring.drawio.svg) |
+| :------------------------------------: |
+|                 *XYZ*                  |
+
+#### Indicator - side mirror and Fender lamps
+
+#### 
 
 ## References
 1. [Automotive Exterior Lighting by Synopsys](https://www.synopsys.com/automotive/what-is-automotive-exterior-lighting.html)
