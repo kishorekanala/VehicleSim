@@ -21,6 +21,9 @@ A vehicle has lighting to illuminate the road and surroundings ahead to increase
 | Term | Description |
 |------|-------------|
 | EMI  | Electro Magnetic Interference |
+| DRL  | Daylight Running Light |
+| CHMSL | Center High Mount Stop Lamp |
+| LD | Lane Departure |
 
 
 ### Requirements
