@@ -54,7 +54,7 @@ These lamps/lights are also called side lights. These lights are used to increas
 
 These lights are triggered using a switch shown as (5) in the diagram.
 
-Parking lamps are connected through simple physical electrical wiring and a switch.
+Parking lamps are connected through simple physical electrical wiring and a switch. This is shown in the diagram below.
 
 
 | ![Parking Lights Wiring](ParkingLightsWiring.svg) |
