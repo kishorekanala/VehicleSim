@@ -34,7 +34,6 @@ Following are the requirements of lights in an automobile
 ### External lights and controls
 
 
-
 | ![External Lights](ExternalLights.svg) |
 | :------------------------------------: |
 |                 *XYZ*                  |
