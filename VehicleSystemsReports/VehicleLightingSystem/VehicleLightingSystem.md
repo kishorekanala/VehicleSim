@@ -71,6 +71,17 @@ Parking lamps are connected through simple physical electrical wiring and a swit
 |                 *XYZ*                  |
 
 
+```mermaid
+sequenceDiagram
+autonumber
+actor Driver
+participant Switch
+participant FrontPositionLamps
+Driver->>Switch: Turns on
+Switch->>FrontPositionLamps: Signal to turn on
+```
+
+
 ##### Adaptive Front Light system (AFS)
 
 
@@ -105,9 +116,19 @@ mindmap
       Hella[Hella]
     Software
       Simulation Software vendors
-        Synopsys
-        OpenSource
-        Freeware
+        Synopsys[Synopsys]
+        OpenSource[OpenSource]
+        Freeware[Freeware]
+    IC vendors
+      xyz
+      abc
+    XYZ
+      x1
+      y1
+    ABC
+      a1
+      b1
+      c1
 ```
 
 ## References
