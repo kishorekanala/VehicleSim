@@ -91,7 +91,7 @@ These lamps are deactivated when turn signal lever is brought to normal position
 
 | Product Name | Vendor/Open Source | Purpose | Description |
 |--------------|--------------------|---------|-------------|
-| Lucidshape | Synopsis | TBD | Based on CATIA CAD tool |
+| Lucidshape | Synopsis | Simulate and Evaluate automotive headlamps  | Night driving simulation software Based on CATIA CAD tool |
 
 #### Commercial
 * Lucid Software from Synopsys
