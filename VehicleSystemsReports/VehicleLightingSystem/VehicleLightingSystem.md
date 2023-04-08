@@ -68,7 +68,8 @@ Parking lamps are connected through simple physical electrical wiring and a swit
 
 | ![Parking Lights Wiring](ParkingLightsWiring.svg) |
 | :------------------------------------: |
-|                 *XYZ*                  |
+|                 *Parking Lights Wiring*                  |
+
 
 
 ```mermaid
