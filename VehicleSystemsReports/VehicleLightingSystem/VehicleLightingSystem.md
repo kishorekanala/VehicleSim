@@ -108,7 +108,7 @@ participant SwitchTrigger
 participant HighBeamLamps
 participant LowBeamLamps
 Driver->>SwitchTrigger: ToggleTrigger
-Switch->>FrontPositionLamps: Signal to turn on
+HighBeamLamps->>LowBeamLamps: Change
 ```
 
 
