@@ -11,7 +11,6 @@
       - [Front Position/Parking Lamp and Tailgate Position/Parking Lamp](#front-positionparking-lamp-and-tailgate-positionparking-lamp)
       - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
       - [High Beam, Low Beam Lamps](#high-beam-low-beam-lamps)
-  - [uml: sequence diagram](#uml-sequence-diagram)
         - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Fog - Front, Rear](#fog---front-rear)
       - [Brake lights](#brake-lights)
@@ -105,11 +104,6 @@ These lamps are deactivated when turn signal lever is brought to normal position
 High beam lamps are of low intensity and illuminate a shorter distance in front of the vehicle. Low beam lamps are of high intensity and illuminate greater distance.
 
 Switching between high and low beam is by manual trigger by the driver.
-
-## uml: sequence diagram
-Here I will embed PlantUML markup to generate a sequence diagram.
-
-I can include as many plantuml segments as I want in my Markdown, and the diagrams can be of any type supported by PlantUML.
 
 </br>
 </br>
