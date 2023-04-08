@@ -142,10 +142,11 @@ actor Driver
 participant SteeringWheel
 participant FrontLightModule
 participant WheelModule
+participant FrontLightMotor
 Driver->>SteeringWheel: Turns 
 SteeringWheel-->>FrontLightModule: Angle Of Rotation (over CAN)
 WheelModule-->>FrontLightModule: Angle Of Rotation (over CAN)
-LowBeamLamps->>HighBeamLamps: Change
+FrontLightModule->>FrontLightMotor: Start rotating Lamp
 ```
 
 #### Fog - Front, Rear
