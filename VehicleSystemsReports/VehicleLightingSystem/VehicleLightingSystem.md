@@ -12,6 +12,7 @@
       - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
       - [High Beam, Low Beam Lamps](#high-beam-low-beam-lamps)
         - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
+      - [Fog - Front, Rear](#fog---front-rear)
   - [Hardware and Software for Vehicle Lighting system](#hardware-and-software-for-vehicle-lighting-system)
     - [Software](#software)
   - [Automotive Lighting: Ecosystem](#automotive-lighting-ecosystem)
@@ -95,8 +96,9 @@ These lamps are deactivated when turn signal lever is brought to normal position
 High beam lamps are of low intensity and illuminate a shorter distance in front of the vehicle. Low beam lamps are of high intensity and illuminate greater distance.
 
 ##### Adaptive Front Light system (AFS)
-
 <TBD>
+
+#### Fog - Front, Rear
 
 ## Hardware and Software for Vehicle Lighting system
 
