@@ -9,9 +9,9 @@
     - [Purpose](#purpose)
     - [External lights and controls](#external-lights-and-controls)
       - [Front Position/Parking Lamp and Tailgate Position/Parking Lamp](#front-positionparking-lamp-and-tailgate-positionparking-lamp)
-        - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
       - [High Beam, Low Beam Lamps](#high-beam-low-beam-lamps)
+        - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
   - [Hardware and Software for Vehicle Lighting system](#hardware-and-software-for-vehicle-lighting-system)
     - [Software](#software)
   - [Automotive Lighting: Ecosystem](#automotive-lighting-ecosystem)
@@ -83,12 +83,6 @@ Driver->>Switch: Turns on
 Switch->>FrontPositionLamps: Signal to turn on
 ```
 
-
-##### Adaptive Front Light system (AFS)
-
-<TBD>
-
-
 #### Indicator - side mirror and Fender lamps
 Side mirror and Fender lamps are triggered by the following
 
@@ -100,6 +94,9 @@ These lamps are deactivated when turn signal lever is brought to normal position
 #### High Beam, Low Beam Lamps
 High beam lamps are of low intensity and illuminate a shorter distance in front of the vehicle. Low beam lamps are of high intensity and illuminate greater distance.
 
+##### Adaptive Front Light system (AFS)
+
+<TBD>
 
 ## Hardware and Software for Vehicle Lighting system
 
