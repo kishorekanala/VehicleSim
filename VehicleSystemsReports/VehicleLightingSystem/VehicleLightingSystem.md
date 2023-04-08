@@ -14,6 +14,7 @@
         - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Fog - Front, Rear](#fog---front-rear)
       - [Brake lights](#brake-lights)
+      - [Reverse light](#reverse-light)
       - [Daylight Running lights (DRL)](#daylight-running-lights-drl)
       - [Center High Mount Stop Lamp (CHMSL)](#center-high-mount-stop-lamp-chmsl)
   - [Hardware and Software for Vehicle Lighting system](#hardware-and-software-for-vehicle-lighting-system)
@@ -138,6 +139,9 @@ LowBeamLamps->>HighBeamLamps: Change
 
 
 #### Brake lights
+
+
+#### Reverse light
 
 
 #### Daylight Running lights (DRL)
