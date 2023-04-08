@@ -76,6 +76,9 @@ Parking lamps are connected through simple physical electrical wiring and a swit
 |                 *Parking Lights Wiring*                  |
 
 
+</br>
+</br>
+</br>
 
 ```mermaid
 sequenceDiagram
@@ -111,7 +114,9 @@ Driver->>SwitchTrigger: ToggleTrigger
 SwitchTrigger-->>HighBeamLamps: Trigger
 HighBeamLamps->>LowBeamLamps: Change
 ```
-
+</br>
+</br>
+</br>
 
 
 ```mermaid
