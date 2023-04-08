@@ -113,6 +113,19 @@ HighBeamLamps->>LowBeamLamps: Change
 ```
 
 
+
+```mermaid
+sequenceDiagram
+autonumber
+actor Driver
+participant SwitchTrigger
+participant HighBeamLamps
+participant LowBeamLamps
+Driver->>SwitchTrigger: ToggleTrigger
+SwitchTrigger-->>LowBeamLamps: Trigger
+LowBeamLamps->>HighBeamLamps: Change
+```
+
 ##### Adaptive Front Light system (AFS)
 <TBD>
 
