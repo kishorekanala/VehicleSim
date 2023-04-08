@@ -98,6 +98,10 @@ These lamps are deactivated when turn signal lever is brought to normal position
 #### High Beam, Low Beam Lamps
 High beam lamps are of low intensity and illuminate a shorter distance in front of the vehicle. Low beam lamps are of high intensity and illuminate greater distance.
 
+Switching between high and low beam is by manual trigger by the driver.
+
+
+
 ##### Adaptive Front Light system (AFS)
 <TBD>
 
