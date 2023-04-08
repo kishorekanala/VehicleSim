@@ -126,27 +126,26 @@ sequenceDiagram
 autonumber
 actor Driver
 participant SwitchTrigger
-participant HighBeamLamps
 participant LowBeamLamps
+participant HighBeamLamps
 Driver->>SwitchTrigger: ToggleTrigger
 SwitchTrigger-->>LowBeamLamps: Trigger
 LowBeamLamps->>HighBeamLamps: Change
 ```
 
 ##### Adaptive Front Light system (AFS)
-<TBD>
 ```mermaid
 sequenceDiagram
 autonumber
 actor Driver
 participant SteeringWheel
-participant FrontLightModule
 participant WheelModule
+participant FrontLightModule
 participant FrontLightMotor
-Driver->>SteeringWheel: Turns 
+Driver->>SteeringWheel: Turns
 SteeringWheel-->>FrontLightModule: Angle Of Rotation (over CAN)
 WheelModule-->>FrontLightModule: Angle Of Rotation (over CAN)
-FrontLightModule->>FrontLightMotor: Start rotating Lamp
+FrontLightModule->>FrontLightMotor: Start rotating Lamp (Angle)
 ```
 
 #### Fog - Front, Rear
