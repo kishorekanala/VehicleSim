@@ -135,6 +135,17 @@ LowBeamLamps->>HighBeamLamps: Change
 
 ##### Adaptive Front Light system (AFS)
 <TBD>
+```mermaid
+sequenceDiagram
+autonumber
+actor Driver
+participant SteeringWheel
+participant FrontLamps (High, Low Beams)
+participant Wheel
+Driver->>SteeringWheel: Turns 
+SwitchTrigger-->>LowBeamLamps: Trigger
+LowBeamLamps->>HighBeamLamps: Change
+```
 
 #### Fog - Front, Rear
 
