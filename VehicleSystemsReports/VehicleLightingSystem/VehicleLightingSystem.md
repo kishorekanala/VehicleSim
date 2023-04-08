@@ -11,7 +11,7 @@
       - [Front Position/Parking Lamp and Tailgate Position/Parking Lamp](#front-positionparking-lamp-and-tailgate-positionparking-lamp)
       - [Indicator - side mirror and Fender lamps](#indicator---side-mirror-and-fender-lamps)
       - [High Beam, Low Beam Lamps](#high-beam-low-beam-lamps)
-  - [uml: state diagram](#uml-state-diagram)
+  - [uml: sequence diagram](#uml-sequence-diagram)
         - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Fog - Front, Rear](#fog---front-rear)
       - [Brake lights](#brake-lights)
@@ -106,25 +106,26 @@ High beam lamps are of low intensity and illuminate a shorter distance in front 
 
 Switching between high and low beam is by manual trigger by the driver.
 
-## uml: state diagram
+## uml: sequence diagram
+Here I will embed PlantUML markup to generate a sequence diagram.
+
+I can include as many plantuml segments as I want in my Markdown, and the diagrams can be of any type supported by PlantUML.
+
 ```plantuml
 @startuml
-scale 600 width
-skinparam backgroundColor #FFEBDC
-[*] -> Begin
-Begin -right-> Running : Succeeded
-Begin --> [*] : Aborted
-state Running {
-  state "The game runneth" as long1
-  long1 : Until you die
-  long1 --> long1 : User interaction
-  long1 --> keepGoing : stillAlive
-  keepGoing --> long1
-  long1 --> tooBadsoSad : killed
-  tooBadsoSad --> Dead : failed
-}
-Dead --> [*] : Aborted
+    skinparam backgroundColor #EEEBDC
+    skinparam handwritten true
+    actor Customer
+    Customer -> "login()" : username & password
+    "login()" -> Customer : session token
+    activate "login()"
+    Customer -> "placeOrder()" : session token, order info
+    "placeOrder()" -> Customer : ok
+    Customer -> "logout()"
+    "logout()" -> Customer : ok
+    deactivate "login()"
 @enduml
+```
 
 </br>
 </br>
