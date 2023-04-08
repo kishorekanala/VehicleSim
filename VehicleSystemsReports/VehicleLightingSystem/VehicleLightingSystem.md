@@ -108,7 +108,7 @@ participant SwitchTrigger
 participant HighBeamLamps
 participant LowBeamLamps
 Driver->>SwitchTrigger: ToggleTrigger
-SwitchTrigger-->SwitchTrigger: Trigger
+SwitchTrigger-->HighBeamLamps: Trigger
 HighBeamLamps->>LowBeamLamps: Change
 ```
 
