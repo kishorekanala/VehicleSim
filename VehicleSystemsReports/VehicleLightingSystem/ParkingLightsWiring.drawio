@@ -1,1 +1,130 @@
-<mxfile host="1us3gv0ug7i1u21nugrbpffgv3ljt63trsjquf1qm7pnmtdie2r1" modified="2023-04-01T04:47:14.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.77.0 Chrome/102.0.5005.196 Electron/19.1.11 Safari/537.36" etag="EDecRG8G_QTb55ipkCMV" version="12.2.4" pages="1"><diagram name="Page-1" id="akO81lj8mc4ogA8G3GGr">7VvRcps4FP0aP+IxYGzyGJK43Z3ubHaz0z4yAmTQRiBGyLHTr18JJNsgp8aNA16XPjTiIiRxzz060kUe2Xfp5hMFefIHiSAeWZNoM7LvR5Y1c1z+vzC8VgbHnVaGmKKoMpk7wxP6DqVxIq0rFMGiVpERghnK68aQZBkMWc0GKCXrerUlwfVecxBDzfAUAqxbv6GIJZXVdSY7+2eI4kT1bE7knRSoytJQJCAi6z2T/TCy7yghrCqlmzuIhe+UX6rnFm/c3Q6Mwoy1eSD46/P8N9P7N3hcT+nN103off/dkK28ALySLywHy16VB14gZYg75AsIIH4kBWKIZPxWQBgj6cj2ti824RcRKBIYyQuAUSyqhnyIkHLDEmF8RzDh5fuCUfIM5ZWXsBRzo8mLqsNb+TQjueilrK4wMKt+czHGdBOL0BtDzAOAiifHKSpC/vYgg2RVjFOSEXHpB4DxcfBI9HTnKU/wzuFmzySd+QmSFDL+rDVRd6cSWBnZ25Bd7+JEVUn2QkTFA5CRGW9b3oHHCxK/E7C0NCxN6ys3ePKtm8Dy92R1z9cguc9IBhuYSZOGaxOyFEWR6MZbJ4jBpxyEos81h4nbKFll0TZGzoCEWwfCvLnRgJgdAML+KCDs46SCWXQrZqedT/dgaOkgBmgM2Q/GIWdaGNWmON2Ne35yDvhJ2SjEgKGX+sR4yHmyh0eC+Ih3fJk1+DJp+L8gKxpC+dT+RNZoqIm31lDlGK2hEsvta/88vNPj8KqpaQ1e83IYnFvPkIWJxFRw6klWLwgW3XlFpX0zXiyfgfThhUNeyKAobeULOt7IuT9MTAp5KyAo252UkcQA27vOIUX89QVnJXkfdxavyED+D6n8VnV6BnJa8yY79WnS6nKanHXDzgth3VGytGWdPWng6HbLuvnAuhNYp6HVN+vcblhXRfOPFryXRU/b1NYuY+fnCOrM+5XFGw3hpzUS5LvadafVWNGYjk6yTheeKph+EW07I3lmPa8pzRYb8UHetnBN7ellyZupb741/DAq3VlPZFgiZ4IoDGVWhQessO+T8iz+uqn7a6b7yzzgr+mH+avFHnmI97fj/YDSdBvvLXZRCj+UljnW4ym+o5lGLG54IHyOS6FSuI0se1n+41XKzm6LvMoFl0lIdbFEGyFtnhzPfcKYSCLfCk9YizDK7DEKSbZEXALpOOQ9WouII8//CHvB/8IM0vjVAFlk5GQNqRHj1zwxrKmRb/hti6O0+ALS3Fe5SB8LMHwMIz9Y4UBeVsVVijLAqc8nD3ecZ/E54sRy6nGiYNmLE9s9sCJxPypOhm3bSfjNG/O0q6cyu+V5i31bn7rmNudF3V/d6pq+Cxri/YR4n/Yc71aLHdSga93rWjOJrJroS9esYb92Cn6OeWG6puC6UF1zrAvTNWvYr70r3nvXtRM+Wg661pmuOc0MZu+65gw8PwU/Z35hutYiL9Onrs2sC9O1IT/xrnjvXdda5CcGXete16buhelai7zMFX0Z1T5nNg/r/F++i9ot8jFXhJt2RvJsuHV8WstukR+5Jtyc7cmD9yJ3oKmuOafnRv6GgHLLI6DPSAjERIhLoSF6NSd7HPU9X0KgwOztRLmefllQUobNL4NJ89tm75hcY0plenTpiUhhrGFgrAq+7Cx3NkuOu5GuMENGiGiIobHkk6nxQrA4tLsoubT4c7n0SeaXq1W/Wr76fIPDpzLmR6gQ2xq/KM8LnnEZas0b201bX4aaB5ah5kctQ+1D6ZUZFgQNeCEWBUdZeA9boxZZNCFpsCreIN8xtp/Dt83Djwd+/nSmreBITHbqZ3KVyu1+a2g//Ac=</diagram></mxfile>
+<mxfile host="65bd71144e" pages="1">
+    <diagram name="Page-1" id="akO81lj8mc4ogA8G3GGr">
+        <mxGraphModel dx="684" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="199.5" as="sourcePoint"/>
+                        <mxPoint x="680" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;fillColor=strokeColor;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.miscellaneous.monocell_battery;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="210" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-2" value="12V Battery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="199" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="bQH7I1BjbPw4r9VxcBzJ-4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="200" as="sourcePoint"/>
+                        <mxPoint x="280" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-4" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="280" y="200" as="sourcePoint"/>
+                        <mxPoint x="300" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="bQH7I1BjbPw4r9VxcBzJ-11" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="310" y="199.5" as="sourcePoint"/>
+                        <mxPoint x="570" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-9" value="Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="150" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-11" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="434" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-12" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="439" y="160" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-13" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="434" y="150" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png" parent="1" vertex="1">
+                    <mxGeometry x="425" y="122" width="38" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-17" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="479" y="189" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-18" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="484" y="159" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-19" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="479" y="149" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png" parent="1" vertex="1">
+                    <mxGeometry x="470" y="121" width="38" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-21" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="519" y="189" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-22" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="524" y="159" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-23" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="519" y="149" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png" parent="1" vertex="1">
+                    <mxGeometry x="510" y="121" width="38" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-25" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="557" y="189" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-26" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="562" y="159" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-27" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="557" y="149" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/energy-and-power-glyph-24-px/24/Lamp_electric_light_led_bulb_light_bulb_luminaire-128.png" parent="1" vertex="1">
+                    <mxGeometry x="548" y="121" width="38" height="38" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="680" y="280" as="sourcePoint"/>
+                        <mxPoint x="680" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-30" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="160" y="280" as="sourcePoint"/>
+                        <mxPoint x="680" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-31" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="159.5" y="280" as="sourcePoint"/>
+                        <mxPoint x="159.5" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-32" value="Rear Parking Lamps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="512" y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-33" value="Front Parking Lamps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="425" y="80" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-7/512/Off_on_power_energy_restart_disable_switch-128.png" parent="1" vertex="1">
+                    <mxGeometry x="272" y="131" width="18" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="bQH7I1BjbPw4r9VxcBzJ-35" value="&lt;b&gt;5&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="FuseBox" style="whiteSpace=wrap;html=1;fillColor=default;sketch=0;fillStyle=solid;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="185" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
