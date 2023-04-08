@@ -140,10 +140,11 @@ sequenceDiagram
 autonumber
 actor Driver
 participant SteeringWheel
-participant FrontLamps (High, Low Beams)
-participant Wheel
+participant FrontLightModule
+participant WheelModule
 Driver->>SteeringWheel: Turns 
-SwitchTrigger-->>LowBeamLamps: Trigger
+SteeringWheel-->>FrontLightModule: Angle Of Rotation (over CAN)
+WheelModule-->>FrontLightModule: Angle Of Rotation (over CAN)
 LowBeamLamps->>HighBeamLamps: Change
 ```
 
