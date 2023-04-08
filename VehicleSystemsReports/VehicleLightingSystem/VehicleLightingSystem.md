@@ -130,7 +130,7 @@ participant HighBeamLamps
 participant LowBeamLamps
 Driver->>SwitchTrigger: ToggleTrigger
 SwitchTrigger-->>LowBeamLamps: Trigger
-LowBeamLamps->>HighBeamLamps: Change
+LowBeamLamps<<-HighBeamLamps: Change
 ```
 
 ##### Adaptive Front Light system (AFS)
