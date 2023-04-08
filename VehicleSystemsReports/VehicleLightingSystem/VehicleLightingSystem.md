@@ -14,6 +14,8 @@
         - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Fog - Front, Rear](#fog---front-rear)
       - [Brake lights](#brake-lights)
+      - [Daylight Running lights (DRL)](#daylight-running-lights-drl)
+      - [Center High Mount Stop Lamp (CHMSL)](#center-high-mount-stop-lamp-chmsl)
   - [Hardware and Software for Vehicle Lighting system](#hardware-and-software-for-vehicle-lighting-system)
     - [Software](#software)
   - [Automotive Lighting: Ecosystem](#automotive-lighting-ecosystem)
@@ -103,6 +105,13 @@ High beam lamps are of low intensity and illuminate a shorter distance in front 
 
 
 #### Brake lights
+
+
+#### Daylight Running lights (DRL)
+
+
+#### Center High Mount Stop Lamp (CHMSL)
+
 
 ## Hardware and Software for Vehicle Lighting system
 
