@@ -13,6 +13,7 @@
       - [High Beam, Low Beam Lamps](#high-beam-low-beam-lamps)
         - [Adaptive Front Light system (AFS)](#adaptive-front-light-system-afs)
       - [Fog - Front, Rear](#fog---front-rear)
+      - [Brake lights](#brake-lights)
   - [Hardware and Software for Vehicle Lighting system](#hardware-and-software-for-vehicle-lighting-system)
     - [Software](#software)
   - [Automotive Lighting: Ecosystem](#automotive-lighting-ecosystem)
@@ -99,6 +100,9 @@ High beam lamps are of low intensity and illuminate a shorter distance in front 
 <TBD>
 
 #### Fog - Front, Rear
+
+
+#### Brake lights
 
 ## Hardware and Software for Vehicle Lighting system
 
