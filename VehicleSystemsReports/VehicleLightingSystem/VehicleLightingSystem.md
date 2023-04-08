@@ -100,6 +100,16 @@ High beam lamps are of low intensity and illuminate a shorter distance in front 
 
 Switching between high and low beam is by manual trigger by the driver.
 
+```mermaid
+sequenceDiagram
+autonumber
+actor Driver
+participant SwitchTrigger
+participant HighBeamLamps
+participant LowBeamLamps
+Driver->>SwitchTrigger: ToggleTrigger
+Switch->>FrontPositionLamps: Signal to turn on
+```
 
 
 ##### Adaptive Front Light system (AFS)
