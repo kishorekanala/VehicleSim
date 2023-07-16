@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="1">
     <diagram name="Page-1" id="akO81lj8mc4ogA8G3GGr">
-        <mxGraphModel dx="684" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="684" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -121,7 +121,7 @@
                 <mxCell id="bQH7I1BjbPw4r9VxcBzJ-35" value="&lt;b&gt;5&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="260" y="110" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="FuseBox" style="whiteSpace=wrap;html=1;fillColor=default;sketch=0;fillStyle=solid;" vertex="1" parent="1">
+                <mxCell id="2" value="FuseBox" style="whiteSpace=wrap;html=1;fillColor=default;sketch=0;fillStyle=solid;" parent="1" vertex="1">
                     <mxGeometry x="190" y="185" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
